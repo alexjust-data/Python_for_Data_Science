@@ -1,0 +1,308 @@
+ORDERID,ORDERPRICE,ORDERDATE,STATUS,PRODUCTLINE,PRODUCTCODE,CUSTOMERNAME,CITY,COUNTRY
+10107,2871.0,2/24/2003 0:00,Shipped,Motorcycles,S10_1678,Land of Toys Inc.,NYC,USA
+10121,2765.9,5/7/2003 0:00,Shipped,Motorcycles,S10_1678,Reims Collectables,Reims,France
+10134,3884.34,7/1/2003 0:00,Shipped,Motorcycles,S10_1678,Lyon Souveniers,Paris,France
+10145,3746.7,8/25/2003 0:00,Shipped,Motorcycles,S10_1678,Toys4GrownUps.com,Pasadena,USA
+10159,5205.27,10/10/2003 0:00,Shipped,Motorcycles,S10_1678,Corporate Gift Ideas Co.,San Francisco,USA
+10168,3479.76,10/28/2003 0:00,Shipped,Motorcycles,S10_1678,Technics Stores Inc.,Burlingame,USA
+10180,2497.77,11/11/2003 0:00,Shipped,Motorcycles,S10_1678,Daedalus Designs Imports,Lille,France
+10188,5512.32,11/18/2003 0:00,Shipped,Motorcycles,S10_1678,Herkku Gifts,Bergen,Norway
+10201,2168.54,12/1/2003 0:00,Shipped,Motorcycles,S10_1678,Mini Wheels Co.,San Francisco,USA
+10211,4708.44,1/15/2004 0:00,Shipped,Motorcycles,S10_1678,Auto Canal Petit,Paris,France
+10223,3965.66,2/20/2004 0:00,Shipped,Motorcycles,S10_1678,"Australian Collectors, Co.",Melbourne,Australia
+10237,2333.12,4/5/2004 0:00,Shipped,Motorcycles,S10_1678,Vitachrome Inc.,NYC,USA
+10251,3188.64,5/18/2004 0:00,Shipped,Motorcycles,S10_1678,Tekni Collectables Inc.,Newark,USA
+10263,3676.76,6/28/2004 0:00,Shipped,Motorcycles,S10_1678,Gift Depot Inc.,Bridgewater,USA
+10275,4177.35,7/23/2004 0:00,Shipped,Motorcycles,S10_1678,La Rochelle Gifts,Nantes,France
+10285,4099.68,8/27/2004 0:00,Shipped,Motorcycles,S10_1678,Marta's Replicas Co.,Cambridge,USA
+10299,2597.39,9/30/2004 0:00,Shipped,Motorcycles,S10_1678,"Toys of Finland, Co.",Helsinki,Finland
+10309,4394.38,10/15/2004 0:00,Shipped,Motorcycles,S10_1678,Baane Mini Imports,Stavern,Norway
+10318,4358.04,11/2/2004 0:00,Shipped,Motorcycles,S10_1678,Diecast Classics Inc.,Allentown,USA
+10329,4396.14,11/15/2004 0:00,Shipped,Motorcycles,S10_1678,Land of Toys Inc.,NYC,USA
+10341,7737.93,11/24/2004 0:00,Shipped,Motorcycles,S10_1678,Salzburg Collectables,Salzburg,Austria
+10361,1451.0,12/17/2004 0:00,Shipped,Motorcycles,S10_1678,Souveniers And Things Co.,Chatswood,Australia
+10375,733.11,2/3/2005 0:00,Shipped,Motorcycles,S10_1678,La Rochelle Gifts,Nantes,France
+10388,3207.12,3/3/2005 0:00,Shipped,Motorcycles,S10_1678,FunGiftIdeas.com,New Bedford,USA
+10403,2434.56,4/8/2005 0:00,Shipped,Motorcycles,S10_1678,"UK Collectables, Ltd.",Liverpool,UK
+10417,7516.08,5/13/2005 0:00,Disputed,Motorcycles,S10_1678,Euro Shopping Channel,Madrid,Spain
+10103,5404.62,1/29/2003 0:00,Shipped,Classic Cars,S10_1949,Baane Mini Imports,Stavern,Norway
+10112,7209.11,3/24/2003 0:00,Shipped,Classic Cars,S10_1949,"Volvo Model Replicas, Co",Lule,Sweden
+10126,7329.06,5/28/2003 0:00,Shipped,Classic Cars,S10_1949,"Corrida Auto Replicas, Ltd",Madrid,Spain
+10140,7374.1,7/24/2003 0:00,Shipped,Classic Cars,S10_1949,Technics Stores Inc.,Burlingame,USA
+10150,10993.5,9/19/2003 0:00,Shipped,Classic Cars,S10_1949,"Dragon Souveniers, Ltd.",Singapore,Singapore
+10163,4860.24,10/20/2003 0:00,Shipped,Classic Cars,S10_1949,Classic Legends Inc.,NYC,USA
+10174,8014.82,11/6/2003 0:00,Shipped,Classic Cars,S10_1949,"Australian Gift Network, Co",South Brisbane,Australia
+10183,5372.57,11/13/2003 0:00,Shipped,Classic Cars,S10_1949,"Classic Gift Ideas, Inc",Philadelphia,USA
+10194,7290.36,11/25/2003 0:00,Shipped,Classic Cars,S10_1949,"Saveley & Henriot, Co.",Lyon,France
+10206,9064.89,12/5/2003 0:00,Shipped,Classic Cars,S10_1949,Canadian Gift Exchange Network,Vancouver,Canada
+10215,6075.3,1/29/2004 0:00,Shipped,Classic Cars,S10_1949,West Coast Collectables Co.,Burbank,USA
+10228,6463.23,3/10/2004 0:00,Shipped,Classic Cars,S10_1949,Cambridge Collectables Co.,Cambridge,USA
+10245,6120.34,5/4/2004 0:00,Shipped,Classic Cars,S10_1949,Super Scale Inc.,New Haven,USA
+10258,7680.64,6/15/2004 0:00,Shipped,Classic Cars,S10_1949,"Tokyo Collectables, Ltd",Minato-ku,Japan
+10270,4905.39,7/19/2004 0:00,Shipped,Classic Cars,S10_1949,Souveniers And Things Co.,Chatswood,Australia
+10280,8014.82,8/17/2004 0:00,Shipped,Classic Cars,S10_1949,Amica Models & Co.,Torino,Italy
+10291,7136.19,9/8/2004 0:00,Shipped,Classic Cars,S10_1949,Scandinavian Gift Ideas,Boras,Sweden
+10304,10172.7,10/11/2004 0:00,Shipped,Classic Cars,S10_1949,Auto Assoc. & Cie.,Versailles,France
+10312,11623.7,10/21/2004 0:00,Shipped,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA
+10322,6000.4,11/4/2004 0:00,Shipped,Classic Cars,S10_1949,Online Diecast Creations Co.,Nashua,USA
+10333,3003.0,11/18/2004 0:00,Shipped,Classic Cars,S10_1949,Mini Wheels Co.,San Francisco,USA
+10347,3944.7,11/29/2004 0:00,Shipped,Classic Cars,S10_1949,"Australian Collectors, Co.",Melbourne,Australia
+10357,5691.84,12/10/2004 0:00,Shipped,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA
+10369,4514.92,1/20/2005 0:00,Shipped,Classic Cars,S10_1949,Collectables For Less Inc.,Brickhaven,USA
+10381,8254.8,2/17/2005 0:00,Shipped,Classic Cars,S10_1949,Corporate Gift Ideas Co.,San Francisco,USA
+10391,2416.56,3/9/2005 0:00,Shipped,Classic Cars,S10_1949,"Anna's Decorations, Ltd",North Sydney,Australia
+10411,4140.23,5/1/2005 0:00,Shipped,Classic Cars,S10_1949,Quebec Home Shopping Network,Montreal,Canada
+10424,12001.0,5/31/2005 0:00,In Process,Classic Cars,S10_1949,Euro Shopping Channel,Madrid,Spain
+10120,2793.86,4/29/2003 0:00,Shipped,Motorcycles,S10_2016,"Australian Collectors, Co.",Melbourne,Australia
+10210,3009.09,1/12/2004 0:00,Shipped,Motorcycles,S10_2016,Osaka Souveniers Co.,Osaka,Japan
+10236,2852.08,4/3/2004 0:00,Shipped,Motorcycles,S10_2016,Motor Mint Distributors Inc.,Philadelphia,USA
+10298,3757.26,9/27/2004 0:00,Shipped,Motorcycles,S10_2016,Atelier graphique,Nantes,France
+10308,4043.96,10/15/2004 0:00,Shipped,Motorcycles,S10_2016,Mini Classics,White Plains,USA
+10339,2756.8,11/23/2004 0:00,Shipped,Motorcycles,S10_2016,"Tokyo Collectables, Ltd",Minato-ku,Japan
+10374,5288.01,2/2/2005 0:00,Shipped,Motorcycles,S10_2016,"Australian Gift Network, Co",South Brisbane,Australia
+10402,5833.8,4/7/2005 0:00,Shipped,Motorcycles,S10_2016,Auto Canal Petit,Paris,France
+10362,3664.1,1/5/2005 0:00,Shipped,Motorcycles,S10_4698,Technics Stores Inc.,Burlingame,USA
+10105,7208.0,2/11/2003 0:00,Shipped,Classic Cars,S10_4757,Danish Wholesale Imports,Kobenhavn,Denmark
+10119,5004.8,4/28/2003 0:00,Shipped,Classic Cars,S10_4757,Salzburg Collectables,Salzburg,Austria
+10129,4398.24,6/12/2003 0:00,Shipped,Classic Cars,S10_4757,"Stylish Desk Decors, Co.",London,UK
+10143,5597.76,8/10/2003 0:00,Shipped,Classic Cars,S10_4757,Mini Creations Ltd.,New Bedford,USA
+10155,4526.08,10/6/2003 0:00,Shipped,Classic Cars,S10_4757,"Toys of Finland, Co.",Helsinki,Finland
+10167,5924.16,10/23/2003 0:00,Cancelled,Classic Cars,S10_4757,Scandinavian Gift Ideas,Boras,Sweden
+10178,3492.48,11/8/2003 0:00,Shipped,Classic Cars,S10_4757,Alpha Cognac,Toulouse,France
+10186,3854.24,11/14/2003 0:00,Shipped,Classic Cars,S10_4757,"Double Decker Gift Stores, Ltd",London,UK
+10197,5324.4,11/26/2003 0:00,Shipped,Classic Cars,S10_4757,Enaco Distributors,Barcelona,Spain
+10209,5197.92,1/9/2004 0:00,Shipped,Classic Cars,S10_4757,"Men 'R' US Retailers, Ltd.",Los Angeles,USA
+10222,5997.6,2/19/2004 0:00,Shipped,Classic Cars,S10_4757,Collectable Mini Designs Co.,San Diego,USA
+10248,2910.4,5/7/2004 0:00,Cancelled,Classic Cars,S10_4757,Land of Toys Inc.,NYC,USA
+10261,3378.24,6/17/2004 0:00,Shipped,Classic Cars,S10_4757,Quebec Home Shopping Network,Montreal,Canada
+10273,3508.8,7/21/2004 0:00,Shipped,Classic Cars,S10_4757,Petit Auto,Bruxelles,Belgium
+10283,2992.0,8/20/2004 0:00,Shipped,Classic Cars,S10_4757,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada
+10295,3427.2,9/10/2004 0:00,Shipped,Classic Cars,S10_4757,Gifts4AllAges.com,Boston,USA
+10307,2692.8,10/14/2004 0:00,Shipped,Classic Cars,S10_4757,"Classic Gift Ideas, Inc",Philadelphia,USA
+10316,4128.96,11/1/2004 0:00,Shipped,Classic Cars,S10_4757,giftsbymail.co.uk,Cowes,UK
+10325,3051.71,11/5/2004 0:00,Shipped,Classic Cars,S10_4757,Baane Mini Imports,Stavern,Norway
+10337,1201.25,11/21/2004 0:00,Shipped,Classic Cars,S10_4757,Classic Legends Inc.,NYC,USA
+10350,1962.22,12/2/2004 0:00,Shipped,Classic Cars,S10_4757,Euro Shopping Channel,Madrid,Spain
+10359,2624.64,12/15/2004 0:00,Shipped,Classic Cars,S10_4757,Reims Collectables,Reims,France
+10373,4046.25,1/31/2005 0:00,Shipped,Classic Cars,S10_4757,"Oulu Toy Supplies, Inc.",Oulu,Finland
+10384,4846.7,2/23/2005 0:00,Shipped,Classic Cars,S10_4757,Corporate Gift Ideas Co.,San Francisco,USA
+10395,3370.56,3/17/2005 0:00,Shipped,Classic Cars,S10_4757,Lyon Souveniers,Paris,France
+10400,9661.44,4/1/2005 0:00,Shipped,Classic Cars,S10_4757,The Sharp Gifts Warehouse,San Jose,USA
+10414,2764.88,5/6/2005 0:00,On Hold,Classic Cars,S10_4757,Gifts4AllAges.com,Boston,USA
+10114,4305.28,4/1/2003 0:00,Shipped,Classic Cars,S10_4962,"La Corne D'abondance, Co.",Paris,France
+10164,3536.82,10/21/2003 0:00,Resolved,Classic Cars,S10_4962,Mini Auto Werke,Graz,Austria
+10175,5362.83,11/6/2003 0:00,Shipped,Classic Cars,S10_4962,"Stylish Desk Decors, Co.",London,UK
+10207,4076.19,12/9/2003 0:00,Shipped,Classic Cars,S10_4962,Diecast Collectables,Boston,USA
+10217,7020.48,2/4/2004 0:00,Shipped,Classic Cars,S10_4962,Handji Gifts& Co,Singapore,Singapore
+10229,6426.5,3/11/2004 0:00,Shipped,Classic Cars,S10_4962,Mini Gifts Distributors Ltd.,San Rafael,USA
+10259,4033.38,6/15/2004 0:00,Shipped,Classic Cars,S10_4962,Handji Gifts& Co,Singapore,Singapore
+10281,7020.64,8/19/2004 0:00,Shipped,Classic Cars,S10_4962,Diecast Classics Inc.,Allentown,USA
+10305,6680.78,10/13/2004 0:00,Shipped,Classic Cars,S10_4962,Marta's Replicas Co.,Cambridge,USA
+10313,6678.0,10/22/2004 0:00,Shipped,Classic Cars,S10_4962,Canadian Gift Exchange Network,Vancouver,Canada
+10334,3188.12,11/19/2004 0:00,On Hold,Classic Cars,S10_4962,"Volvo Model Replicas, Co",Lule,Sweden
+10370,2297.05,1/20/2005 0:00,Shipped,Classic Cars,S10_4962,"Anna's Decorations, Ltd",North Sydney,Australia
+10425,5894.94,5/31/2005 0:00,In Process,Classic Cars,S10_4962,La Rochelle Gifts,Nantes,France
+10108,5265.15,3/3/2003 0:00,Shipped,Classic Cars,S12_1099,Cruz & Sons Co.,Makati City,Philippines
+10122,7599.9,5/8/2003 0:00,Shipped,Classic Cars,S12_1099,Marseille Mini Autos,Marseille,France
+10135,8008.56,7/2/2003 0:00,Shipped,Classic Cars,S12_1099,Mini Gifts Distributors Ltd.,San Rafael,USA
+10147,9245.76,9/5/2003 0:00,Shipped,Classic Cars,S12_1099,Collectables For Less Inc.,Brickhaven,USA
+10169,5019.9,11/4/2003 0:00,Shipped,Classic Cars,S12_1099,"Anna's Decorations, Ltd",North Sydney,Australia
+10181,5411.07,11/12/2003 0:00,Shipped,Classic Cars,S12_1099,Herkku Gifts,Bergen,Norway
+10191,3840.9,11/20/2003 0:00,Shipped,Classic Cars,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany
+10203,3930.4,12/2/2003 0:00,Shipped,Classic Cars,S12_1099,Euro Shopping Channel,Madrid,Spain
+10225,4517.91,2/22/2004 0:00,Shipped,Classic Cars,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland
+10238,5774.72,4/9/2004 0:00,Shipped,Classic Cars,S12_1099,Danish Wholesale Imports,Kobenhavn,Denmark
+10253,3922.56,6/1/2004 0:00,Cancelled,Classic Cars,S12_1099,"UK Collectables, Ltd.",Liverpool,UK
+10266,9160.36,7/6/2004 0:00,Shipped,Classic Cars,S12_1099,L'ordine Souveniers,Reggio Emilia,Italy
+10276,9631.0,8/2/2004 0:00,Shipped,Classic Cars,S12_1099,Online Mini Collectables,Brickhaven,USA
+10287,3432.24,8/30/2004 0:00,Shipped,Classic Cars,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland
+10300,5521.89,10/4/2003 0:00,Shipped,Classic Cars,S12_1099,"Blauer See Auto, Co.",Frankfurt,Germany
+10310,6934.62,10/16/2004 0:00,Shipped,Classic Cars,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany
+10320,6876.11,11/3/2004 0:00,Shipped,Classic Cars,S12_1099,"Volvo Model Replicas, Co",Lule,Sweden
+10363,2817.87,1/6/2005 0:00,Shipped,Classic Cars,S12_1099,Suominen Souveniers,Espoo,Finland
+10389,2575.04,3/3/2005 0:00,Shipped,Classic Cars,S12_1099,Scandinavian Gift Ideas,Boras,Sweden
+10419,1961.28,5/17/2005 0:00,Shipped,Classic Cars,S12_1099,Salzburg Collectables,Salzburg,Austria
+10117,6034.38,4/16/2003 0:00,Shipped,Classic Cars,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore
+10127,11279.2,6/3/2003 0:00,Shipped,Classic Cars,S12_1108,Muscle Machine Inc,NYC,USA
+10142,8023.29,8/8/2003 0:00,Shipped,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA
+10153,4904.0,9/28/2003 0:00,Shipped,Classic Cars,S12_1108,Euro Shopping Channel,Madrid,Spain
+10165,8594.52,10/22/2003 0:00,Shipped,Classic Cars,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore
+10176,7474.5,11/6/2003 0:00,Shipped,Classic Cars,S12_1108,L'ordine Souveniers,Reggio Emilia,Italy
+10185,3883.74,11/14/2003 0:00,Shipped,Classic Cars,S12_1108,Mini Creations Ltd.,New Bedford,USA
+10196,8887.7,11/26/2003 0:00,Shipped,Classic Cars,S12_1108,Super Scale Inc.,New Haven,USA
+10208,8602.92,1/2/2004 0:00,Shipped,Classic Cars,S12_1108,"Saveley & Henriot, Co.",Lyon,France
+10220,7181.44,2/12/2004 0:00,Shipped,Classic Cars,S12_1108,"Clover Collections, Co.",Dublin,Ireland
+10231,8378.58,3/19/2004 0:00,Shipped,Classic Cars,S12_1108,CAF Imports,Madrid,Spain
+10247,10606.2,5/5/2004 0:00,Shipped,Classic Cars,S12_1108,Suominen Souveniers,Espoo,Finland
+10272,5818.4,7/20/2004 0:00,Shipped,Classic Cars,S12_1108,Diecast Classics Inc.,Allentown,USA
+10282,7071.27,8/20/2004 0:00,Shipped,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA
+10293,8411.56,9/9/2004 0:00,Shipped,Classic Cars,S12_1108,Amica Models & Co.,Torino,Italy
+10306,6570.76,10/14/2004 0:00,Shipped,Classic Cars,S12_1108,"AV Stores, Co.",Manchester,UK
+10314,7975.44,10/22/2004 0:00,Shipped,Classic Cars,S12_1108,Heintze Collectables,Aaarhus,Denmark
+10336,1888.26,11/20/2004 0:00,Shipped,Classic Cars,S12_1108,"La Corne D'abondance, Co.",Paris,France
+10348,2513.28,11/1/2004 0:00,Shipped,Classic Cars,S12_1108,"Corrida Auto Replicas, Ltd",Madrid,Spain
+10371,3560.64,1/23/2005 0:00,Shipped,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA
+10382,3823.64,2/17/2005 0:00,Shipped,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA
+10413,8677.8,5/5/2005 0:00,Shipped,Classic Cars,S12_1108,Gift Depot Inc.,Bridgewater,USA
+10113,3415.44,3/26/2003 0:00,Shipped,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA
+10216,5759.42,2/2/2004 0:00,Shipped,Trucks and Buses,S12_1666,Auto Assoc. & Cie.,Versailles,France
+10189,4512.48,11/18/2003 0:00,Shipped,Motorcycles,S12_2823,Toys4GrownUps.com,Pasadena,USA
+10224,6087.94,2/21/2004 0:00,Shipped,Motorcycles,S12_2823,Daedalus Designs Imports,Lille,France
+10319,4111.8,11/3/2004 0:00,Shipped,Motorcycles,S12_2823,Microscale Inc.,NYC,USA
+10104,5958.5,1/31/2003 0:00,Shipped,Classic Cars,S12_3148,Euro Shopping Channel,Madrid,Spain
+10230,7016.31,3/15/2004 0:00,Shipped,Classic Cars,S12_3148,"Blauer See Auto, Co.",Frankfurt,Germany
+10324,1466.91,11/5/2004 0:00,Shipped,Classic Cars,S12_3148,Vitachrome Inc.,NYC,USA
+10358,2711.66,12/10/2004 0:00,Shipped,Classic Cars,S12_3148,Euro Shopping Channel,Madrid,Spain
+10372,5862.0,1/26/2005 0:00,Shipped,Classic Cars,S12_3148,"Tokyo Collectables, Ltd",Minato-ku,Japan
+10160,5294.14,10/11/2003 0:00,Shipped,Classic Cars,S12_3380,"Men 'R' US Retailers, Ltd.",Los Angeles,USA
+10170,5464.69,11/4/2003 0:00,Shipped,Classic Cars,S12_3380,Mini Auto Werke,Graz,Austria
+10212,4946.76,1/16/2004 0:00,Shipped,Classic Cars,S12_3380,Euro Shopping Channel,Madrid,Spain
+10376,3987.2,2/8/2005 0:00,Shipped,Classic Cars,S12_3380,Boards & Toys Co.,Glendale,USA
+10349,4408.56,12/1/2004 0:00,Shipped,Classic Cars,S12_3891,Muscle Machine Inc,NYC,USA
+10396,6109.29,3/23/2005 0:00,Shipped,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA
+10377,1627.92,2/9/2005 0:00,Shipped,Classic Cars,S12_3990,"Toys of Finland, Co.",Helsinki,Finland
+10115,5723.78,4/4/2003 0:00,Shipped,Trucks and Buses,S12_4473,Classic Legends Inc.,NYC,USA
+10141,2140.11,8/1/2003 0:00,Shipped,Trucks and Buses,S12_4473,Suominen Souveniers,Espoo,Finland
+10151,3327.6,9/21/2003 0:00,Shipped,Trucks and Buses,S12_4473,"Oulu Toy Supplies, Inc.",Oulu,Finland
+10184,4516.22,11/14/2003 0:00,Shipped,Trucks and Buses,S12_4473,"Iberia Gift Imports, Corp.",Sevilla,Spain
+10195,6445.46,11/25/2003 0:00,Shipped,Trucks and Buses,S12_4473,Mini Classics,White Plains,USA
+10219,4891.68,2/10/2004 0:00,Shipped,Trucks and Buses,S12_4473,Signal Collectibles Ltd.,Brisbane,USA
+10246,5069.66,5/5/2004 0:00,Shipped,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain
+10271,3012.27,7/20/2004 0:00,Shipped,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA
+10292,2214.87,9/8/2004 0:00,Shipped,Trucks and Buses,S12_4473,Land of Toys Inc.,NYC,USA
+10412,5951.34,5/3/2005 0:00,Shipped,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain
+10192,3544.56,11/20/2003 0:00,Shipped,Classic Cars,S12_4675,Online Diecast Creations Co.,Nashua,USA
+10239,1958.88,4/12/2004 0:00,Shipped,Classic Cars,S12_4675,"Oulu Toy Supplies, Inc.",Oulu,Finland
+10277,3127.88,8/4/2004 0:00,Shipped,Classic Cars,S12_4675,"Dragon Souveniers, Ltd.",Singapore,Singapore
+10321,2984.88,11/4/2004 0:00,Shipped,Classic Cars,S12_4675,FunGiftIdeas.com,New Bedford,USA
+10405,9048.16,4/14/2005 0:00,Shipped,Classic Cars,S12_4675,Mini Caravy,Strasbourg,France
+10109,4379.18,3/10/2003 0:00,Shipped,Classic Cars,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA
+10136,3644.75,7/4/2003 0:00,Shipped,Classic Cars,S18_1129,Alpha Cognac,Toulouse,France
+10148,2702.04,9/11/2003 0:00,Shipped,Classic Cars,S18_1129,"Anna's Decorations, Ltd",North Sydney,Australia
+10161,3764.88,10/17/2003 0:00,Shipped,Classic Cars,S18_1129,Heintze Collectables,Aaarhus,Denmark
+10171,4508.0,11/5/2003 0:00,Shipped,Classic Cars,S18_1129,Quebec Home Shopping Network,Montreal,Canada
+10204,6182.4,12/2/2003 0:00,Shipped,Classic Cars,S18_1129,Muscle Machine Inc,NYC,USA
+10240,5628.89,4/13/2004 0:00,Shipped,Classic Cars,S18_1129,Osaka Souveniers Co.,Osaka,Japan
+10278,4667.86,8/6/2004 0:00,Shipped,Classic Cars,S18_1129,Signal Gift Stores,Las Vegas,USA
+10301,5917.78,10/5/2003 0:00,Shipped,Classic Cars,S18_1129,"Norway Gifts By Mail, Co.",Oslo,Norway
+10331,6434.02,11/17/2004 0:00,Shipped,Classic Cars,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA
+10342,6454.4,11/24/2004 0:00,Shipped,Classic Cars,S18_1129,"Australian Collectors, Co.",Melbourne,Australia
+10356,4196.8,12/9/2004 0:00,Shipped,Classic Cars,S18_1129,Lyon Souveniers,Paris,France
+10365,2611.8,1/7/2005 0:00,Shipped,Classic Cars,S18_1129,Mini Creations Ltd.,New Bedford,USA
+10390,3375.72,3/4/2005 0:00,Shipped,Classic Cars,S18_1129,Mini Gifts Distributors Ltd.,San Rafael,USA
+10406,8374.69,4/15/2005 0:00,Disputed,Classic Cars,S18_1129,Danish Wholesale Imports,Kobenhavn,Denmark
+10102,4808.31,1/10/2003 0:00,Shipped,Vintage Cars,S18_1342,Vitachrome Inc.,NYC,USA
+10111,3288.78,3/25/2003 0:00,Shipped,Vintage Cars,S18_1342,Mini Wheels Co.,San Francisco,USA
+10125,3254.72,5/21/2003 0:00,Shipped,Vintage Cars,S18_1342,"Australian Collectors, Co.",Melbourne,Australia
+10139,3184.94,7/16/2003 0:00,Shipped,Vintage Cars,S18_1342,Souveniers And Things Co.,Chatswood,Australia
+10149,5907.5,9/12/2003 0:00,Shipped,Vintage Cars,S18_1342,Signal Collectibles Ltd.,Brisbane,USA
+10162,4389.12,10/18/2003 0:00,Shipped,Vintage Cars,S18_1342,Corporate Gift Ideas Co.,San Francisco,USA
+10173,5036.16,11/5/2003 0:00,Shipped,Vintage Cars,S18_1342,Rovelli Gifts,Bergamo,Italy
+10182,2183.25,11/12/2003 0:00,Shipped,Vintage Cars,S18_1342,Mini Gifts Distributors Ltd.,San Rafael,USA
+10193,3106.88,11/21/2003 0:00,Shipped,Vintage Cars,S18_1342,"Australian Collectables, Ltd",Glen Waverly,Australia
+10205,3735.72,12/3/2003 0:00,Shipped,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain
+10227,2953.75,3/2/2004 0:00,Shipped,Vintage Cars,S18_1342,"Saveley & Henriot, Co.",Lyon,France
+10244,4684.8,4/29/2004 0:00,Shipped,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain
+10256,3248.7,6/8/2004 0:00,Shipped,Vintage Cars,S18_1342,Danish Wholesale Imports,Kobenhavn,Denmark
+10289,4567.98,9/3/2004 0:00,Shipped,Vintage Cars,S18_1342,Herkku Gifts,Bergen,Norway
+10332,4375.98,11/17/2004 0:00,Shipped,Vintage Cars,S18_1342,"AV Stores, Co.",Manchester,UK
+10346,1516.62,11/29/2004 0:00,Shipped,Vintage Cars,S18_1342,Signal Gift Stores,Las Vegas,USA
+10380,2515.32,2/16/2005 0:00,Shipped,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain
+10422,4873.05,5/30/2005 0:00,In Process,Vintage Cars,S18_1342,Diecast Classics Inc.,Allentown,USA
+10110,5433.08,3/18/2003 0:00,Shipped,Classic Cars,S18_1589,"AV Stores, Co.",Manchester,UK
+10123,3073.72,5/20/2003 0:00,Shipped,Classic Cars,S18_1589,Atelier graphique,Nantes,France
+10137,4380.2,7/10/2003 0:00,Shipped,Classic Cars,S18_1589,Reims Collectables,Reims,France
+10172,4965.24,11/5/2003 0:00,Shipped,Classic Cars,S18_1589,Gift Depot Inc.,Bridgewater,USA
+10226,4161.38,2/26/2004 0:00,Shipped,Classic Cars,S18_1589,Collectable Mini Designs Co.,San Diego,USA
+10241,2508.66,4/13/2004 0:00,Shipped,Classic Cars,S18_1589,Mini Caravy,Strasbourg,France
+10288,2936.8,9/1/2004 0:00,Shipped,Classic Cars,S18_1589,Handji Gifts& Co,Singapore,Singapore
+10311,2923.2,10/16/2004 0:00,Shipped,Classic Cars,S18_1589,Euro Shopping Channel,Madrid,Spain
+10343,5848.92,11/24/2004 0:00,Shipped,Classic Cars,S18_1589,Reims Collectables,Reims,France
+10367,2758.7,1/12/2005 0:00,Resolved,Classic Cars,S18_1589,Toys4GrownUps.com,Pasadena,USA
+10378,1449.76,2/10/2005 0:00,Shipped,Classic Cars,S18_1589,Euro Shopping Channel,Madrid,Spain
+10407,7048.14,4/22/2005 0:00,On Hold,Classic Cars,S18_1589,The Sharp Gifts Warehouse,San Jose,USA
+10106,5279.4,2/17/2003 0:00,Shipped,Planes,S18_1662,Rovelli Gifts,Bergamo,Italy
+10131,2781.66,6/16/2003 0:00,Shipped,Planes,S18_1662,Gift Ideas Corp.,Glendale,USA
+10198,7483.98,11/27/2003 0:00,Shipped,Planes,S18_1662,Cruz & Sons Co.,Makati City,Philippines
+10250,8160.3,5/11/2004 0:00,Shipped,Planes,S18_1662,The Sharp Gifts Warehouse,San Jose,USA
+10262,6567.96,6/24/2004 0:00,Cancelled,Planes,S18_1662,Euro Shopping Channel,Madrid,Spain
+10274,6724.0,7/21/2004 0:00,Shipped,Planes,S18_1662,Collectables For Less Inc.,Brickhaven,USA
+10284,5747.85,8/21/2004 0:00,Shipped,Planes,S18_1662,"Norway Gifts By Mail, Co.",Oslo,Norway
+10296,5676.84,9/15/2004 0:00,Shipped,Planes,S18_1662,"Bavarian Collectables Imports, Co.",Munich,Germany
+10327,2804.75,11/10/2004 0:00,Resolved,Planes,S18_1662,Danish Wholesale Imports,Kobenhavn,Denmark
+10338,5624.79,11/22/2004 0:00,Shipped,Planes,S18_1662,Royale Belge,Charleroi,Belgium
+10351,3881.28,12/3/2004 0:00,Shipped,Planes,S18_1662,"Stylish Desk Decors, Co.",London,UK
+10386,1364.25,3/1/2005 0:00,Resolved,Planes,S18_1662,Euro Shopping Channel,Madrid,Spain
+10398,4215.09,3/30/2005 0:00,Shipped,Planes,S18_1662,Reims Collectables,Reims,France
+10416,4352.16,5/10/2005 0:00,Shipped,Planes,S18_1662,L'ordine Souveniers,Reggio Emilia,Italy
+10100,5151.0,1/6/2003 0:00,Shipped,Vintage Cars,S18_1749,Online Diecast Creations Co.,Nashua,USA
+10124,2856.0,5/21/2003 0:00,Shipped,Vintage Cars,S18_1749,Signal Gift Stores,Las Vegas,USA
+10214,5967.0,1/26/2004 0:00,Shipped,Vintage Cars,S18_1749,"Corrida Auto Replicas, Ltd",Madrid,Spain
+10302,7310.0,10/6/2003 0:00,Shipped,Vintage Cars,S18_1749,"UK Collectables, Ltd.",Liverpool,UK
+10344,7650.0,11/25/2004 0:00,Shipped,Vintage Cars,S18_1749,Marseille Mini Autos,Marseille,France
+10379,5399.55,2/10/2005 0:00,Shipped,Vintage Cars,S18_1749,Euro Shopping Channel,Madrid,Spain
+10420,5283.6,5/29/2005 0:00,In Process,Vintage Cars,S18_1749,Souveniers And Things Co.,Chatswood,Australia
+10366,4207.84,1/10/2005 0:00,Shipped,Classic Cars,S18_1984,Royale Belge,Charleroi,Belgium
+10303,2255.84,10/6/2004 0:00,Shipped,Vintage Cars,S18_2248,"Iberia Gift Imports, Corp.",Sevilla,Spain
+10383,3843.99,2/22/2005 0:00,Shipped,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain
+10101,3782.0,1/9/2003 0:00,Shipped,Vintage Cars,S18_2325,"Blauer See Auto, Co.",Frankfurt,Germany
+10243,6154.18,4/26/2004 0:00,Shipped,Vintage Cars,S18_2325,Diecast Collectables,Boston,USA
+10409,785.64,4/23/2005 0:00,Shipped,Vintage Cars,S18_2325,Handji Gifts& Co,Singapore,Singapore
+10133,3394.23,6/27/2003 0:00,Shipped,Planes,S18_2581,Euro Shopping Channel,Madrid,Spain
+10235,1824.72,4/2/2004 0:00,Shipped,Planes,S18_2581,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada
+10297,2069.75,9/16/2004 0:00,Shipped,Planes,S18_2581,"Clover Collections, Co.",Dublin,Ireland
+10353,3515.67,12/4/2004 0:00,Shipped,Planes,S18_2581,Gift Ideas Corp.,Glendale,USA
+10401,3193.26,4/3/2005 0:00,On Hold,Planes,S18_2581,Tekni Collectables Inc.,Newark,USA
+10255,3726.0,6/4/2004 0:00,Shipped,Vintage Cars,S18_2795,Mini Caravy,Strasbourg,France
+10421,5433.75,5/29/2005 0:00,In Process,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA
+10257,4407.0,6/14/2004 0:00,Shipped,Vintage Cars,S18_2949,The Sharp Gifts Warehouse,San Jose,USA
+10423,881.4,5/30/2005 0:00,In Process,Vintage Cars,S18_2949,Petit Auto,Bruxelles,Belgium
+10269,2018.56,7/16/2004 0:00,Shipped,Vintage Cars,S18_2957,Salzburg Collectables,Salzburg,Austria
+10392,2218.52,3/10/2005 0:00,Shipped,Vintage Cars,S18_2957,Mini Auto Werke,Graz,Austria
+10130,3853.6,6/16/2003 0:00,Shipped,Ships,S18_3029,Auto-Moto Classics Inc.,Brickhaven,USA
+10128,5544.02,6/6/2003 0:00,Shipped,Vintage Cars,S18_3140,Euro Shopping Channel,Madrid,Spain
+10166,6930.74,10/21/2003 0:00,Shipped,Vintage Cars,S18_3140,FunGiftIdeas.com,New Bedford,USA
+10177,3675.63,11/7/2003 0:00,Shipped,Vintage Cars,S18_3140,CAF Imports,Madrid,Spain
+10221,4417.38,2/18/2004 0:00,Shipped,Vintage Cars,S18_3140,Petit Auto,Bruxelles,Belgium
+10232,3606.02,3/20/2004 0:00,Shipped,Vintage Cars,S18_3140,giftsbymail.co.uk,Cowes,UK
+10394,3353.02,3/15/2005 0:00,Shipped,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain
+10326,3807.68,11/9/2004 0:00,Shipped,Trains,S18_3259,"Volvo Model Replicas, Co",Lule,Sweden
+10252,1527.8,5/26/2004 0:00,Shipped,Classic Cars,S18_3278,Auto Canal Petit,Paris,France
+10265,3907.8,7/2/2004 0:00,Shipped,Classic Cars,S18_3278,"Australian Collectables, Ltd",Glen Waverly,Australia
+10290,2501.98,9/7/2004 0:00,Shipped,Vintage Cars,S18_3320,Auto-Moto Classics Inc.,Brickhaven,USA
+10323,3011.91,11/5/2004 0:00,Shipped,Vintage Cars,S18_3320,"Blauer See Auto, Co.",Frankfurt,Germany
+10330,4405.22,11/16/2004 0:00,Shipped,Classic Cars,S18_3482,Cruz & Sons Co.,Makati City,Philippines
+10355,3177.91,12/7/2004 0:00,Shipped,Classic Cars,S18_3482,Euro Shopping Channel,Madrid,Spain
+10146,3155.58,9/3/2003 0:00,Shipped,Motorcycles,S18_3782,Gift Ideas Corp.,Glendale,USA
+10264,2626.08,6/30/2004 0:00,Shipped,Motorcycles,S18_3782,Gifts4AllAges.com,Boston,USA
+10286,2173.6,8/28/2004 0:00,Shipped,Motorcycles,S18_3782,"La Corne D'abondance, Co.",Paris,France
+10249,5600.5,5/8/2004 0:00,Shipped,Vintage Cars,S18_3856,Cambridge Collectables Co.,Cambridge,USA
+10328,3815.48,11/12/2004 0:00,Shipped,Vintage Cars,S18_3856,Rovelli Gifts,Bergamo,Italy
+10415,6209.25,5/9/2005 0:00,Disputed,Vintage Cars,S18_3856,"Australian Collectables, Ltd",Glen Waverly,Australia
+10152,4524.1,9/25/2003 0:00,Shipped,Classic Cars,S18_4027,"Australian Gift Network, Co",South Brisbane,Australia
+10213,3602.02,1/22/2004 0:00,Shipped,Vintage Cars,S18_4409,"Double Decker Gift Stores, Ltd",London,UK
+10315,3602.16,10/29/2004 0:00,Shipped,Vintage Cars,S18_4522,La Rochelle Gifts,Nantes,France
+10267,2719.8,7/7/2004 0:00,Shipped,Classic Cars,S18_4933,Muscle Machine Inc,NYC,USA
+10279,1575.08,8/9/2004 0:00,Shipped,Classic Cars,S18_4933,Euro Shopping Channel,Madrid,Spain
+10158,1474.66,10/10/2003 0:00,Shipped,Motorcycles,S24_2000,Baane Mini Imports,Stavern,Norway
+10340,4398.9,11/24/2004 0:00,Shipped,Motorcycles,S24_2000,Enaco Distributors,Barcelona,Spain
+10345,2311.68,11/25/2004 0:00,Shipped,Vintage Cars,S24_2022,Atelier graphique,Nantes,France
+10190,3199.98,11/19/2003 0:00,Shipped,Motorcycles,S24_2360,Euro Shopping Channel,Madrid,Spain
+10368,4107.2,1/19/2005 0:00,Shipped,Classic Cars,S24_2766,Mini Gifts Distributors Ltd.,San Rafael,USA
+10335,1225.29,11/19/2004 0:00,Shipped,Classic Cars,S24_2840,Mini Gifts Distributors Ltd.,San Rafael,USA
+10154,2826.27,10/2/2003 0:00,Shipped,Vintage Cars,S24_3151,Boards & Toys Co.,Glendale,USA
+10233,3788.4,3/29/2004 0:00,Shipped,Vintage Cars,S24_3151,Tekni Collectables Inc.,Newark,USA
+10385,3164.98,2/28/2005 0:00,Shipped,Vintage Cars,S24_3816,Mini Gifts Distributors Ltd.,San Rafael,USA
+10242,1698.78,4/20/2004 0:00,Shipped,Vintage Cars,S24_3969,Microscale Inc.,NYC,USA
+10408,553.95,4/22/2005 0:00,Shipped,Vintage Cars,S24_3969,"Tokyo Collectables, Ltd",Minato-ku,Japan
+10317,2916.2,11/2/2004 0:00,Shipped,Planes,S24_4278,Technics Stores Inc.,Burlingame,USA
+10387,4175.6,3/2/2005 0:00,Shipped,Motorcycles,S32_1374,"Dragon Souveniers, Ltd.",Singapore,Singapore
+10364,2317.44,1/6/2005 0:00,Shipped,Motorcycles,S32_2206,Marseille Mini Autos,Marseille,France
+10116,1711.26,4/11/2003 0:00,Shipped,Trains,S32_3207,Royale Belge,Charleroi,Belgium
+10144,1637.2,8/13/2003 0:00,Shipped,Vintage Cars,S32_4289,Royale Belge,Charleroi,Belgium
+10156,820.4,10/8/2003 0:00,Shipped,Vintage Cars,S50_1341,Euro Shopping Channel,Madrid,Spain
+10199,1113.6,12/1/2003 0:00,Shipped,Vintage Cars,S50_1341,West Coast Collectables Co.,Burbank,USA
+10397,2577.6,3/28/2005 0:00,Shipped,Ships,S700_1938,Alpha Cognac,Toulouse,France
+10352,2352.67,12/3/2004 0:00,Shipped,Ships,S700_2047,Auto-Moto Classics Inc.,Brickhaven,USA
+10118,4219.2,4/21/2003 0:00,Shipped,Ships,S700_3505,Enaco Distributors,Barcelona,Spain
+10294,4692.6,9/10/2004 0:00,Shipped,Ships,S700_3962,Online Mini Collectables,Brickhaven,USA

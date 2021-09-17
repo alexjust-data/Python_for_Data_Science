@@ -1,0 +1,57 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+# defaults:  The defaults key will be applied to all chapters and sub-sections
+  # numbered:
+parts:
+  - caption: LEVEL 1
+    chapters:
+    - file: notebooks/LEVEL1/2/02_Breve_introduccion
+      sections:
+      - file: notebooks/LEVEL1/2/pec2
+    - file: notebooks/LEVEL1/3/03_conceptos_avanzados
+    - file: notebooks/LEVEL1/4/04_Librerias
+      sections:
+      - file: notebooks/LEVEL1/4/04_pandas
+      - file: notebooks/LEVEL1/4/04_numpy
+      - file: notebooks/LEVEL1/4/04_scipy
+      - file: notebooks/LEVEL1/4/04_matplotlib
+      - file: notebooks/LEVEL1/4/pec4
+    - file: notebooks/LEVEL1/5/05_prog_datasci_5_api
+      sections:
+      - file: notebooks/LEVEL1/5/05_api_tutorial_scrapy
+      - file: notebooks/LEVEL1/5/05_Estraccion_informacion_en_twiiter
+    - file: notebooks/LEVEL1/6/06_prog_datasci_6_preproc
+    - file: notebooks/LEVEL1/7/07_analisis_de_datos
+    - file: notebooks/LEVEL1/8/08_prog_datasci_8_vis
+  - caption: LEVEL 2
+    chapters:
+    - file: notebooks/LEVEL2/1/11_Afianzando_conceptos
+      sections:
+      - file: notebooks/LEVEL2/1/practica/PEC1
+    - file: notebooks/LEVEL2/2/12_Estructuras_de_datos_avanzadas
+      sections:
+      - file: notebooks/LEVEL2/2/practica/PEC2
+    - file: notebooks/LEVEL2/3/13_Uso_avanzado_de_funciones
+    - file: notebooks/LEVEL2/4/14_Ficheros_e_interaccion_con_el_sistema
+    - file: notebooks/LEVEL2/5/15_Optimizacion_complejidad_y_profiling
+      sections:
+      - file: notebooks/LEVEL2/3/practica/PEC3
+    - file: notebooks/LEVEL2/6/16_Optimizacion_paralelismo_y_concurrencia
+    - file: notebooks/LEVEL2/7/17_Testing_matenimiento_y_despliegue
+  #    sections:
+  #    - file: notebooks/PYTHON/UOC_Act3/manipulacion-datos
+  #    - file: notebooks/PYTHON/UOC_Act4/limpieza-datos
+  #- caption: CALCULO
+  #  chapters:
+  #  - file: notebooks/2_CALCULO/1_2_Estudio integrales definidas
+  #  - file: notebooks/2_CALCULO/1_4_Apliccion_de _las_integrales_en_teoria_probabilidad
+  #  - file: notebooks/2_CALCULO/1_3_Apliccion_de _las_integrales_en_teoria_de_la_señal
+  #  - file: notebooks/2_CALCULO/2_1Funciones _varias_variables_reales
+  #  - file: notebooks/2_CALCULO/3_Derivadas_parciales
+  #  - file: notebooks/2_CALCULO/4_Optimización
+  #  - file: notebooks/2_CALCULO/5_Metodos_numericos_iterativos_varias_variables
+  #  - file: notebooks/2_CALCULO/6_Cal_integral_2_y_3_variables
+

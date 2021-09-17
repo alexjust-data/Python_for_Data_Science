@@ -1,0 +1,3 @@
+Trying the r+ mode!write again?
+And now, what happens if we write again?
+...and again?
